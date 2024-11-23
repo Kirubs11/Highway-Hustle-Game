@@ -19,7 +19,7 @@ body::before {
     background-image: url("./assets/backimg.jpg");
     background-size: cover;
     background-position: center;
-    filter: blur(5px);
+    filter: blur(4.5px);
     z-index: -1; 
 }
 
