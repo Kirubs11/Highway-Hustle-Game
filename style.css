@@ -2,7 +2,7 @@ body{
     margin: 0;
     overflow: hidden;
     /* background-color:#b7b7a4 ; */
-    background-image: url("./assets/back.jpg");
+    background-image: url("./assets/backimg.jpg");
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -16,7 +16,7 @@ body::before {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url("./assets/back.jpg");
+    background-image: url("./assets/backimg.jpg");
     background-size: cover;
     background-position: center;
     filter: blur(5px);
